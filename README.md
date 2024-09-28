@@ -1,5 +1,7 @@
 Nama : Naila Winingtyas Pradanti
+
 NIM : H1101221004
+
 Sistem Informasi, Universitas Tanjungpura
 
 # getx_example
